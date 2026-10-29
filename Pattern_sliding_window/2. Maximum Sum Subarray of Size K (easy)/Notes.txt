@@ -1,0 +1,4 @@
+Given an array of positive numbers and a positive number ‘k’, find the maximum sum of any contiguous subarray of size ‘k’.
+
+once you hit k. add a windowStart. 
+increse the windowstart when windowEnd>k
